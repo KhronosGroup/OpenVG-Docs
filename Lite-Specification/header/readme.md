@@ -1,0 +1,1 @@
+Header files of OpenVG Lite Version. Only "openvg.h" is exit. Other files are same as OpenVG 1.1 header files. 

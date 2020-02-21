@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adopter Porting", "adopter.vcproj", "{51531271-CE00-4771-9017-F57366865667}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Generator", "generator.vcproj", "{42E0E27B-767E-4C15-82D3-C6213A9FAE36}"
+	ProjectSection(ProjectDependencies) = postProject
+		{51531271-CE00-4771-9017-F57366865667} = {51531271-CE00-4771-9017-F57366865667}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Debug - RI = Debug - RI
+		Release = Release
+		Release - RI = Release - RI
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{51531271-CE00-4771-9017-F57366865667}.Debug.ActiveCfg = Debug|Win32
+		{51531271-CE00-4771-9017-F57366865667}.Debug.Build.0 = Debug|Win32
+		{51531271-CE00-4771-9017-F57366865667}.Debug - RI.ActiveCfg = Debug - RI|Win32
+		{51531271-CE00-4771-9017-F57366865667}.Debug - RI.Build.0 = Debug - RI|Win32
+		{51531271-CE00-4771-9017-F57366865667}.Release.ActiveCfg = Release|Win32
+		{51531271-CE00-4771-9017-F57366865667}.Release.Build.0 = Release|Win32
+		{51531271-CE00-4771-9017-F57366865667}.Release - RI.ActiveCfg = Release - RI|Win32
+		{51531271-CE00-4771-9017-F57366865667}.Release - RI.Build.0 = Release - RI|Win32
+		{42E0E27B-767E-4C15-82D3-C6213A9FAE36}.Debug.ActiveCfg = Debug|Win32
+		{42E0E27B-767E-4C15-82D3-C6213A9FAE36}.Debug.Build.0 = Debug|Win32
+		{42E0E27B-767E-4C15-82D3-C6213A9FAE36}.Debug - RI.ActiveCfg = Debug - RI|Win32
+		{42E0E27B-767E-4C15-82D3-C6213A9FAE36}.Debug - RI.Build.0 = Debug - RI|Win32
+		{42E0E27B-767E-4C15-82D3-C6213A9FAE36}.Release.ActiveCfg = Release|Win32
+		{42E0E27B-767E-4C15-82D3-C6213A9FAE36}.Release.Build.0 = Release|Win32
+		{42E0E27B-767E-4C15-82D3-C6213A9FAE36}.Release - RI.ActiveCfg = Release - RI|Win32
+		{42E0E27B-767E-4C15-82D3-C6213A9FAE36}.Release - RI.Build.0 = Release - RI|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
