@@ -13,13 +13,13 @@ puppeteer:
 
 ![OpenVG](figures/OpenVG.png)
 
-# OpenVG 1.1 Lite Specification
+# OpenVG 1.1 Lite Specification (Provisional)
 
 Updates
 * Version 1.0 - August 1, 2005
 * Version 1.0.1 - January 26, 2007
 * Version 1.1 - December 3, 2008
-* Version 1.1 Lite - January 31, 2020 (Release A003)
+* Version 1.1 Lite (Provisional) - January 31, 2020 (Release A003)
 
 Editors
 * Hwanyong Lee, Ajou University
