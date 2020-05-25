@@ -1,16 +1,16 @@
 # OpenVG 1.1 Lite Specification - Markdown format 
-openvg_lite_spec.md file maybe updated immediately. If you find any issue, please write on issue list. Or you can send merge request to. 
-PDF file will be updated monthly. Around every end of month, PDF file will be updated from updated md file. 
+The OpenVG Working Group welcomes and will review any issues or merge requests on openvg_lite_spec.md. 
+The PDF file will be regenerated around the end of every month to include any accepted updates to the md file.
 
 ## Release History
-* A003 : 2020/01/31   // Minor foramt changed, Version history 
+* A003 : 2020/01/31   // Minor format changed, Version history 
 * A002 : 2020/01/29	  // Minor format changed in Table 6, 10
 * A001 : 2020/01/12 
 
-## Process to make PDF
-To rener Katex math equation and github table.
+## To render a PDF version of openvg_lite_spec.md
+Including Katex math equations and GitHub tables:
 * Install MS Code or Atom editor
-* Install Markdown preview enhanced package on MSCode or Atom
-* Install Chrome web browser (for puppeteer interface)
+* Install Markdown preview enhanced package on MS Code or Atom
+* Install Chrome web browser (for Puppeteer interface)
 * Preview markdown with Markdown preview enhanced
-* Output PDF with puppeteer
+* Output PDF with Puppeteer
