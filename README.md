@@ -1,15 +1,13 @@
 # OpenVG-Docs
 
-OpenVG Specification 
-
 ## OpenVG 1.1 Lite provisional specification 
 
-New OpenVG 1.1 Lite provisional specification is open to public. If you have any comment or feedback, please write on issues. 
-OpenVG 1.1 lite is almost same as OpenVG 1.1. All OpenVG 1.1 implementation can pass OpenVG 1.1 Lite conformance test. 
+The OpenVG Working Group welcomes issues and merge requests on the markdown source of OpenVG 1.1 Lite Provisional Specification. Specification contributions are made under the terms of the Khronos IP Framework.
 
-Major changes of Lite version are;
+OpenVG 1.1 Lite makes minimal changes to OpenVG 1.1 to enable direct acceleration by OpenGL ES 2.0.
+All conformant OpenVG 1.1 implementations will pass the OpenVG 1.1 Lite conformance tests. 
+
+The main updates to OpenVG 1.1 Lite from OpenVG 1.1 are:
 * Stencil drawing mode in image draw became optional 
 * Darken and Lighten blending mode became optional
 * Complex stroke path generation in 1.1 CTS are removed in Lite CTS. 
-
-
