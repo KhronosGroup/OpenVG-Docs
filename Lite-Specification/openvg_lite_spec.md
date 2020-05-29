@@ -19,7 +19,7 @@ Updates
 * Version 1.0 - August 1, 2005
 * Version 1.0.1 - January 26, 2007
 * Version 1.1 - December 3, 2008
-* Version 1.1 Lite (Provisional) - June 27, 2020 (Release A004)
+* Version 1.1 Lite (Provisional) - May 29, 2020 (Release A005)
 
 Editors
 * Hwanyong Lee, Ajou University

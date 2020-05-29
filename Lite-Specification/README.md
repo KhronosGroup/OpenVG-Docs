@@ -3,6 +3,8 @@ The OpenVG Working Group welcomes and will review any issues or merge requests o
 The PDF file will be regenerated around the end of every month to include any accepted updates to the md file.
 
 ## Release History
+* A005 : 2020/05/29   // Update Release data (June--> May)
+* A004 : 2020/05/24   // License Information changed
 * A003 : 2020/01/31   // Minor format changed, Version history 
 * A002 : 2020/01/29	  // Minor format changed in Table 6, 10
 * A001 : 2020/01/12 
